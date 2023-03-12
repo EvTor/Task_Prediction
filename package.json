@@ -1,0 +1,18 @@
+{
+  "name": "freshpoint_task_predict",
+  "version": "1.0.0",
+  "description": "Task-prediction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Evgeniy Toropitsyn",
+  "license": "ISC",
+  "dependencies": {
+    "arima": "^0.2.5",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "holtwinters-md": "^0.0.4",
+    "nodemon": "^2.0.21"
+  }
+}
